@@ -1,3 +1,7 @@
+2.6.1
+
+- Atualizada a dependência de runtime da gema aitch para ~> 1.0 
+
 2.6.0
 
 - Assinatura
